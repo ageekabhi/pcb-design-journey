@@ -296,14 +296,14 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "Spice",
     "ngspice": {
       "fix_include_paths": true,
       "meta": {
         "version": 0
       },
       "model_mode": 0,
-      "workbook_filename": ""
+      "workbook_filename": "led-resistor-circuit.wbk"
     },
     "page_layout_descr_file": "",
     "plot_directory": "",

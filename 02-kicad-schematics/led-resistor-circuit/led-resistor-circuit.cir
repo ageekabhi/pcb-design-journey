@@ -1,0 +1,7 @@
+.title KiCad schematic
+.include "/home/abhishek/pcb-design-journey/02-kicad-schematics/led-resistor-circuit/led_model.lib"
+V1 +5V GND DC 5 
+D1 Net-_D1-A_ Net-_D1-K_ LED_MODEL
+R1 Net-_D1-A_ +5V 1000
+R2 GND Net-_D1-K_ 2000
+.end

@@ -1,0 +1,11 @@
+# KiCad temporary files
+*.kicad_prl
+*-backups/
+[#]auto_saved_files[#]
+*.wbk
+
+# Simulation temporary files
+*.raw
+*.log
+
+/02-kicad-schematics/led-resistor-circuit.kicad_pro
